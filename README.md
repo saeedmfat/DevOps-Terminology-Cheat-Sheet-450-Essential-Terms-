@@ -5,8 +5,11 @@
 🧩 Core DevOps Concepts
 
 DevOps — Collaboration between Dev & Ops for faster delivery
+
 SDLC — Software Development Life Cycle
+
 Agile — Iterative software development methodology
+
 Scrum — Agile framework using sprints
 Kanban — Visual task board method
 Lean — Eliminating waste, maximizing value
